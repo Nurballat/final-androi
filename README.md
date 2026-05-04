@@ -21,9 +21,3 @@ A lightweight Android application that demonstrates real-time object detection u
 
 ## Configuration Details
 The project is configured with jvmTarget = "1.8" and includes necessary Material Components and Kotlin dependencies for compatibility with modern Android Studio environments.
-# final-androi
-# final-androi
-# final-androi
-# final-androi
-# final-androi
-# final-androi
